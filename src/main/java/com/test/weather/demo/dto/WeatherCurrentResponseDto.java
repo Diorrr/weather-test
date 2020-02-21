@@ -7,5 +7,5 @@ import lombok.Data;
 @AllArgsConstructor
 public class WeatherCurrentResponseDto {
 
-    private double temp_c;
+    private double temperature;
 }
